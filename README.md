@@ -1,12 +1,12 @@
 <h1 align="center">N3utr0n&nbsp;⌨</h1>
 <div>
-<img width="225px" align="right" alt="gif" src="https://thumbs.gfycat.com/DownrightNeatGalapagosalbatross-size_restricted.gif">
+<img width="200px" align="right" alt="gif" src="https://thumbs.gfycat.com/DownrightNeatGalapagosalbatross-size_restricted.gif">
 
 ### Hacker<br> Programador<br> Pentester
 </div>
 <br>
 <br>
-<p align="center">Apenas algumas das linguagens que uso, não coloquei todas que tenho conhecimento :)</p>
+<p align="center">Algumas das linguagens que sei, não coloquei todas que tenho conhecimento :)</p>
 <div style="display: inline_block" align="center">
 <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
