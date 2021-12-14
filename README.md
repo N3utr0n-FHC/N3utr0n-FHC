@@ -1,6 +1,6 @@
 <h1 align="center">N3utr0n&nbsp;⌨</h1>
 <div>
-<img width="200px" align="right" alt="gif" src="https://thumbs.gfycat.com/DownrightNeatGalapagosalbatross-size_restricted.gif">
+<img width="180px" align="right" alt="gif" src="https://giffiles.alphacoders.com/119/119862.gif">
 
 ### Hacker<br> Programador<br> Pentester
 </div>
@@ -18,9 +18,11 @@
 </div>
 <br>
 <div align="center">
+<img width="200px" align="center" alt="gif2" src="https://thumbs.gfycat.com/DownrightNeatGalapagosalbatross-size_restricted.gif">
+</div>
+<div align="center">
 <a href="https://github.com/N3utr0n-FHC">
-<img width="90px" align="right" alt="gif2" src="https://giffiles.alphacoders.com/119/119862.gif">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=N3utr0n-FHC&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=N3utr0n-FHC&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3utr0n-FHC&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <h3 align="center">contato</h3>
